@@ -1,3 +1,6 @@
 /cmake-build-debug/
 */cmake-build-debug/
 /Computer_Graphics-master/
+
+**/glad/
+**/glfw/
